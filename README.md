@@ -5,3 +5,5 @@
 
 
 Pre-trained models for https://github.com/bedapudi6788/NudeNet
+
+Archiving this repo. The weights will be auto-downloaded while using nudenet.
